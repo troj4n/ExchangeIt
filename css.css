@@ -1,0 +1,25 @@
+@font-face{font-family:homoarakhn; src:url('homoarak.ttf');}
+@font-face{font-family:homoarakhn;font-weight:bold; src:url('homoarak.ttf');}
+
+
+
+a
+{
+text-decoration: none;
+    text-align: center;
+    color: #6bf290
+}
+header
+{
+    width: 1330px;
+    height: 100px;
+    backface-visibility: hidden;
+background-color: #fff;
+    font-family: homoarakhn,sans-serif;
+    font-size: 40px;
+}
+body
+{
+padding: 0;
+    margin: 2px;
+}
